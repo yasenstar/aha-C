@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="啊哈C语言" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1703540274712"><hook NAME="MapStyle" background="#f5f5dc">
+<node TEXT="啊哈C语言" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1703540274712"><hook NAME="MapStyle" background="#f5f5dc" zoom="0.769">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_sepia_template.mm"/>
 
 <map_styles>
@@ -76,13 +76,18 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<node TEXT="1. 编程改变思维" POSITION="bottom_or_right" ID="ID_1074805777" CREATED="1703540312339" MODIFIED="1703540320423">
+<node TEXT="1. 编程改变思维" POSITION="bottom_or_right" ID="ID_1074805777" CREATED="1703540312339" MODIFIED="1703541200101" LINK="https://www.codeaha.com/">
 <node TEXT="1.1 为什么要学习编程" ID="ID_928469277" CREATED="1703540600156" MODIFIED="1703540609464"/>
 <node TEXT="1.2 本书是讲什么的，写给谁看的" ID="ID_899720935" CREATED="1703540609926" MODIFIED="1703540628392"/>
 </node>
 <node TEXT="2. 梦想启航" POSITION="bottom_or_right" ID="ID_1492163181" CREATED="1703540320900" MODIFIED="1703540325447">
 <node TEXT="2.1 编程的魔力" ID="ID_717239635" CREATED="1703540632159" MODIFIED="1703540637311"/>
-<node TEXT="2.2 让计算机开口说话" ID="ID_501208535" CREATED="1703540637679" MODIFIED="1703540643664"/>
+<node TEXT="2.2 让计算机开口说话" ID="ID_501208535" CREATED="1703540637679" MODIFIED="1703540643664">
+<node TEXT="下载”啊哈C“" ID="ID_1621967327" CREATED="1703540808656" MODIFIED="1703540819752">
+<node TEXT="链接1：华军软件园" ID="ID_1495381171" CREATED="1703540832508" MODIFIED="1703540849890" LINK="https://www.onlinedown.net/soft/115630.htm"/>
+<node TEXT="链接2：我的GitHub" ID="ID_944437869" CREATED="1703541122544" MODIFIED="1703541146747" LINK="https://github.com/yasenstar/aha-C/raw/main/tool/AhaCppInstall4.0.1.0.zip"/>
+</node>
+</node>
 <node TEXT="2.3 多彩一点" ID="ID_1825404231" CREATED="1703540643820" MODIFIED="1703540649393"/>
 <node TEXT="2.4 让计算机做加法" ID="ID_1909168578" CREATED="1703540649719" MODIFIED="1703540659474"/>
 <node TEXT="2.5 数字的家-变量" ID="ID_118046494" CREATED="1703540659751" MODIFIED="1703540669482"/>
