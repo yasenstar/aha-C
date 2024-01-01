@@ -11,7 +11,7 @@ int main()
     {
 		result = result * a;
         if (a > 1)
-			printf("%d x", a);
+			printf("%d x ", a);
         a = a - 1;
     }
     printf("= %d\n", result);
