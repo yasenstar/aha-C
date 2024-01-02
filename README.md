@@ -12,7 +12,7 @@ Learning by Practicing on "啊哈C语言"
 
 ## 章节目录
 
-1. [编程改变思维](/1_编程改变思维/README.md)
-2. [梦想启航](./2_梦想启航/README.md)
+1. [编程改变思维](/1_编程改变思维)
+2. [梦想启航](./2_梦想启航)
 
 欢迎发送邮件（[电子邮箱](mailto:xiaoqizhao@outlook.com)）提问与讨论。
