@@ -4,7 +4,7 @@
 int main()
 {
 	int a;
-    a = 75;
+    a = 120;
     system("color 0a");
     while (a>=0)
     {
