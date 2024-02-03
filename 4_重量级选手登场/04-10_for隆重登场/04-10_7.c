@@ -2,15 +2,13 @@
 #include <stdlib.h>
 int main()
 {
-	int i, j;
-    for (i=1;i<=9;i++)
-    {
-		for (j=1;j<=i;j++)
-        {
-			printf("%dx%d=%d   ", j, i, i*j);
-		}
-        printf("\n");
-    }
+	int a, b;
+    a = 5;
+    printf("%d\n", a);
+    b=a++;
+    printf("%d %d\n", a,b);
+    b=++a;
+    printf("%d %d\n", a, b);
 	system("pause");
 	return 0;
 }
