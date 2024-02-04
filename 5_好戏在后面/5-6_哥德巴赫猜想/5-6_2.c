@@ -5,6 +5,7 @@ int main()
 	int k, i, count1, j, count2, a, b;
     for (k = 4; k <= 100; k = k +2)
     {
+		printf("%d", k);
 		for (a = 2; a <= k / 2; a++)
         {
 			count1 = 0;
@@ -26,11 +27,12 @@ int main()
 					}
 				}
                 if (count2==0) {
-					printf("%d=%d+%d  ",k, a, b);
-                    break;
+					printf("=%d+%d",a, b);
+                    //break;
                 }
             }
         }
+        printf("\n");
     }
 	system("pause");
 	return 0;
