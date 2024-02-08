@@ -27,7 +27,7 @@ int main()
     // 在屏幕上输出初始化的迷宫
     for (i=0;i<=5;i++) { puts(a[i]); }
     
-    while(1) {
+    while(x!=p || y!=q) {
 		// 读取方向键输入
 		ch = getch();
 		
@@ -41,13 +41,38 @@ int main()
 			}
 		}
 		// 向上
+        if (ch=='w') {
+			if (a[x-1][y]!='#') {
+				a[x][y]=' ';
+				x--;
+				a[x][y]='O';
+			}
+		}
 		// 向右
+        if (ch=='d') {
+			if (a[x][y+1]!='#') {
+				a[x][y]=' ';
+				y++;
+				a[x][y]='O';
+			}
+		}
 		// 向左
+        if (ch=='a') {
+			if (a[x][y-1]!='#') {
+				a[x][y]=' ';
+				y--;
+				a[x][y]='O';
+			}
+		}
 		
 		// 清空屏幕，重新输出更新的迷宫
 		system("cls");
 		for (i=0;i<=5;i++) { puts(a[i]); }
     }
+    
+    // 打印游戏完成消息
+    system("cls");
+    printf("Congratulation! You Win!\n");
     
 	// system("pause");
     Sleep(5000);
