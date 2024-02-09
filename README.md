@@ -21,4 +21,11 @@ Learning by Practicing on "啊哈C语言"
 7. [有了它你能做更多的事](./7_有了它你能做更多的事/)
 8. [游戏时间到了](./8_游戏时间到了/)
 
+---
+
+## 视频链接
+
+- [YouTube Video List](https://www.youtube.com/playlist?list=PL6DEHvciXKeVzQIMSwYjtMO3v8HmU9OOZ)
+- [BiliBili B站 第一集](https://www.bilibili.com/video/BV1HQ4y177Fz/)
+
 欢迎发送邮件（[电子邮箱](mailto:xiaoqizhao@outlook.com)）提问与讨论。
