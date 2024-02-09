@@ -27,5 +27,9 @@ Learning by Practicing on "啊哈C语言"
 
 - [YouTube Video List](https://www.youtube.com/playlist?list=PL6DEHvciXKeVzQIMSwYjtMO3v8HmU9OOZ)
 - [BiliBili B站 第一集](https://www.bilibili.com/video/BV1HQ4y177Fz/)
+- [西瓜视频 合集](https://www.ixigua.com/7318561329411949071?&&id=7319143671516168713)
+- [抖音 合集](https://www.douyin.com/collection/7318783352662657060/1)
+
+---
 
 欢迎发送邮件（[电子邮箱](mailto:xiaoqizhao@outlook.com)）提问与讨论。
