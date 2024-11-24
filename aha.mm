@@ -1,20 +1,24 @@
-<map version="freeplane 1.11.5">
+<map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="啊哈C语言" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1703542388761" LINK="https://edu.codeaha.com/"><hook NAME="MapStyle" background="#f5f5dc">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sepia_template.mm" fit_to_viewport="false"/>
+<node TEXT="啊哈C语言" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1703542388761" LINK="https://edu.codeaha.com/"><hook NAME="MapStyle" background="#f5f5dcff">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sepia_template.mm" fit_to_viewport="false" show_tags="UNDER_NODES"/>
+    <tags category_separator="::"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_1558627382" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#2c2b29" BACKGROUND_COLOR="#eedfcc" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-8.25 pt;" ENDINCLINATION="81.75 pt;19.5 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_1558627382" STARTINCLINATION="81.75 pt;-7.5 pt;" ENDINCLINATION="81.75 pt;19.5 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="9" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#2e3440" WIDTH="3" DASH="SOLID"/>
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details" COLOR="#ffffff" BACKGROUND_COLOR="#2e3440">
+<font SIZE="10"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.tags">
 <font SIZE="10"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes">
@@ -84,7 +88,9 @@
 <node TEXT="2.1 编程的魔力" ID="ID_717239635" CREATED="1703540632159" MODIFIED="1703540637311"/>
 <node TEXT="2.2 让计算机开口说话" ID="ID_501208535" CREATED="1703540637679" MODIFIED="1703540643664">
 <node TEXT="下载”啊哈C 2.0“" ID="ID_1267385634" CREATED="1703550769634" MODIFIED="1703550781603">
-<node TEXT="链接1：论坛" ID="ID_374317520" CREATED="1703550782959" MODIFIED="1703550796995" LINK="https://bbs.codeaha.com/thread-1218-1-1.html"/>
+<node TEXT="链接1：论坛" ID="ID_374317520" CREATED="1703550782959" MODIFIED="1732443960358" LINK="https://bbs.codeaha.com/thread-1218-1-1.html">
+<icon BUILTIN="button_cancel"/>
+</node>
 <node TEXT="链接2：我的GitHub" ID="ID_448749505" CREATED="1703550798136" MODIFIED="1703550834306" LINK="https://github.com/yasenstar/aha-C/raw/main/tool/ahac_v2.0.zip"/>
 </node>
 <node TEXT="下载”啊哈C 4.0“" ID="ID_1621967327" CREATED="1703540808656" MODIFIED="1703550768513">
