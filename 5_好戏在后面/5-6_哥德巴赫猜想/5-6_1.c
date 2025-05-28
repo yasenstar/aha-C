@@ -3,7 +3,7 @@
 int main()
 {
 	int k, i, count1, j, count2, a, b;
-    for (k = 4; k <= 100; k = k +2)
+    for (k = 4; k <= 100; k = k +1)
     {
 		for (a = 2; a <= k / 2; a++)
         {
