@@ -32,4 +32,12 @@ Learning by Practicing on "啊哈C语言"
 
 ---
 
+## 资源下载
+
+- 啊哈C-编译器-v2.0 (百度网盘):ahac_v2.0.zip
+  - 链接: https://pan.baidu.com/s/1p1_YGcIxXcmEIgqMOdveXA?pwd=rj59
+  - 提取码: rj59
+
+---
+
 欢迎发送邮件（[电子邮箱](mailto:xiaoqizhao@outlook.com)）提问与讨论。
